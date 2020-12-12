@@ -1,0 +1,3 @@
+[submodule "/Users/gallon/.config/nvim"]
+	path = /Users/gallon/.config/nvim
+	url = git@github.com:GallonHu/nvim.git
