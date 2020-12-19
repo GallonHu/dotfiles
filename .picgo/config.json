@@ -1,0 +1,14 @@
+{
+  "picBed": {
+    "uploader": "smms",
+    "current": "smms",
+    "github": {
+      "repo": "GallonHu/pic",
+      "branch": "master",
+      "token": "0c97be5c8404340c5a3c3972d2932f27962fef72",
+      "path": "blog/",
+      "customUrl": "https://cdn.jsdelivr.net/gh/GallonHu/pic@master"
+    }
+  },
+  "picgoPlugins": {}
+}
